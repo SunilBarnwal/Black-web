@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.2);  /* 20% black */
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.box {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    margin-top: 30px;
+    border: 2px solid white;
+}
+
+.slider {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(60%);
+}
+
+.content {
+    position: absolute;
+    padding: 20px;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+}
+
+/* Different colors */
+.c1 { color: red; }
+.c2 { color: yellow; }
+.c3 { color: lime; }
+.c4 { color: orange; }
+.c5 { color: pink; }
+.c6 { color: cyan; }
+.c7 { color: violet; }
+.c8 { color: gold; }
+.c9 { color: lightgreen; }
+.c10 { color: lightblue; }
+.c11 { color: coral; }
+.c12 { color: deeppink; }
+.c13 { color: turquoise; }
+.c14 { color: tomato; }
+.c15 { color: khaki; }
+.c16 { color: springgreen; }
+.c17 { color: magenta; }
+.c18 { color: skyblue; }
+.c19 { color: lightcoral; }
+.c20 { color: chartreuse; }
+.c21 { color: white; }
